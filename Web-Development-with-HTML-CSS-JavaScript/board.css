@@ -1,0 +1,18 @@
+/* TODO: Style your board game's div to display as a grid and ensure you create space between the tiles. */
+
+.board {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 15px;
+  background-color: lightgrey;
+  padding: 10px;
+}
+/* TODO: Style the tiles with a background color, padding, and font size. */
+
+.board > div {
+  background-color: lightskyblue;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid darkblue;
+  font-size: 20px;
+}
