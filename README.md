@@ -12,6 +12,7 @@ Each folder corresponds to a specific module or lesson from the course. Inside, 
 - Web Development with HTML, CSS, and JavaScript
 - Client-side Web Development with React.js
 - Server-side Web Development with Node.js and Express.js
+- Introduction to MongoDB
 - Introduction to Authentication and Authorization
 
 ## 📌 Note
